@@ -1,6 +1,6 @@
 <img src="bestbanner2.png" alt="banner" />
 
-### Hi there 👋
+### Welcome to my GitHub profile!
 
 <!--
 **cambam509/cambam509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
