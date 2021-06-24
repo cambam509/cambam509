@@ -1,4 +1,4 @@
-<img src="bestbanner2.png" alt="banner" />
+![bestbanner2](https://user-images.githubusercontent.com/63881824/123336195-62d57180-d4fa-11eb-8f0a-79fa86dae887.png)
 
 ### Welcome to my GitHub profile!
 
