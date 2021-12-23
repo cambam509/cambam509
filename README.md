@@ -3,7 +3,7 @@
 ### Welcome to my GitHub profile!
 
 <p>
-  My name is Cameron Christensen and I am a full-stack software engineer and web developer from the Pacific Northwest, and Hack Reactor graduate, specializing in JavaScript, HTML, and CSS. 
+  My name is Cameron Christensen and I am a full-stack software engineer and web developer from the Pacific Northwest, and Hack Reactor graduate, specializing in JavaScript, HTML, and CSS. I am currently working as an engineer for Meta (Facebook Enterprise Products) and also work on side projects for JCZ Apps: https://github.com/JCZ-Apps.
 </p>
 
 ### Tech Stack
