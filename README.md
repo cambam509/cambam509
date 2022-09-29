@@ -28,9 +28,6 @@
   </a>
 </p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="camcchristensen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/camcchristensen?trk=profile-badge">Cam Christensen</a></div>
-
 ### Github stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cambam509&count_private=true&show_icons=true&theme=tokyonight)
